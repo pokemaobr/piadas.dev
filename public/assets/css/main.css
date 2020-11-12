@@ -1,0 +1,33 @@
+
+body {
+    /*background: linear-gradient(to left, #51cc48, #39df9c); */
+    background: linear-gradient(to left, #00a8a5, #39df9c);
+    min-height: 100vh;
+}
+
+h1 {
+    font-family: "Helvetica";
+    font-size: 8ch !important;
+}
+
+.width-auto {
+    width: auto;
+}
+
+.text-lg {
+    font-size: 2rem;
+}
+
+.carousel-indicators li {
+    border: none;
+    background: #ccc;
+}
+
+.carousel-indicators li.active {
+    background: #28a745;
+}
+
+.font-top {
+    font-family: "Courier New", "Courier", "monospace";
+    font-size: 3.5ch;
+}
